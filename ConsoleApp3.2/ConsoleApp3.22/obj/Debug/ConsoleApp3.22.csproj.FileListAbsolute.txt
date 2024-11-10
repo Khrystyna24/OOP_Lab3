@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Education\OOP\OOPLab3\ConsoleApp3.22\ConsoleApp3.22\bin\Debug\ConsoleApp3.22.exe.config
+C:\Users\Admin\Desktop\Education\OOP\OOPLab3\ConsoleApp3.22\ConsoleApp3.22\bin\Debug\ConsoleApp3.22.exe
+C:\Users\Admin\Desktop\Education\OOP\OOPLab3\ConsoleApp3.22\ConsoleApp3.22\bin\Debug\ConsoleApp3.22.pdb
+C:\Users\Admin\Desktop\Education\OOP\OOPLab3\ConsoleApp3.22\ConsoleApp3.22\obj\Debug\ConsoleApp3.22.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Education\OOP\OOPLab3\ConsoleApp3.22\ConsoleApp3.22\obj\Debug\ConsoleApp3.22.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Education\OOP\OOPLab3\ConsoleApp3.22\ConsoleApp3.22\obj\Debug\ConsoleApp3.22.exe
+C:\Users\Admin\Desktop\Education\OOP\OOPLab3\ConsoleApp3.22\ConsoleApp3.22\obj\Debug\ConsoleApp3.22.pdb
